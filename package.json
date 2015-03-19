@@ -1,0 +1,9 @@
+{
+  "name": "no-ban-validator",
+  "lisence": "MIT",
+  "version": "1.0.0",
+  "main": "./lib/no_ban_validator.js",
+  "devDependencies": {
+    "jasmine": "2.2.1"
+  }
+}
